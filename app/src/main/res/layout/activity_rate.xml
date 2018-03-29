@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rate_tw"
+        android:text="Rate"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+
+
+        <Button
+            android:layout_width="68dp"
+            android:layout_height="68dp"
+            android:text="-"
+            android:textSize="40sp"
+            android:layout_marginRight="16dp"
+            android:onClick="decrement" />
+
+        <TextView
+            android:id="@+id/quantity_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+
+            android:layout_marginRight="16dp"
+            android:textColor="@android:color/black"
+            android:textSize="40sp"/>
+
+        <Button
+            android:layout_width="68dp"
+            android:layout_height="68dp"
+            android:text="+"
+            android:textSize="40sp"
+            android:layout_marginBottom="16dp"
+            android:onClick="increment" />
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="68dp"
+            android:text="Save"
+            android:textSize="20sp"
+            android:onClick="save"/>
+            </LinearLayout>
+    </LinearLayout>

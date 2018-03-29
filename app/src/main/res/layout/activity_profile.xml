@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="right"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:background="@drawable/baymax4"
+        android:orientation="vertical"
+        android:gravity="right"
+
+        >
+
+
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/NavigationDrawer_Username"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:paddingTop="16dp"
+            android:text="Hello"
+            android:gravity="bottom"
+            android:layout_marginRight="5dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="20dp"
+            />
+
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/NavigationDrawer_UserEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:text="siddhu007parikh@gmail.com"
+            android:gravity="bottom"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Body2"
+            />
+
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/NavigationDrawer_msg"
+        android:layout_width="343dp"
+        android:layout_height="152dp"
+        android:gravity="center"
+        android:text="You haven't had any diagnosis yet"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Body2" />
+
+
+</LinearLayout>

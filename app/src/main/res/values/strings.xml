@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Baymax</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="playstore_link">https://play.google.com/store/apps/details?id=spit.matrix17</string>
+    <string name="github_link">https://github.com/tejas4888/Matrix2k17</string>
+
+    <string name="visit_website">Visit website</string>
+    <string name="matrix_website">http://www.matrixthefest.in</string>
+
+    <string name="follow_facebook">Facebook</string>
+    <string name="matrix_fb_link">https://www.facebook.com/TheMatrixSPIT</string>
+
+    <string name="follow_twitter">Twitter</string>
+    <string name="matrix_twit_link">https://twitter.com/SPIT_Matrix</string>
+
+    <string name="follow_instagram">Instagram</string>
+    <string name="matrix_insta_link">https://www.instagram.com/matrixthefest</string>
+
+    <string name="follow_snapchat">Snapchat</string>
+    <string name="matrix_snap_link">https://www.snapchat.com/add/matrixthefest</string>
+
+    <string name="sponsors">Sponsors</string>
+    <string name="share">Share app</string>
+    <string name="rate">Rate app</string>
+    <string name="share_message">Share link via</string>
+
+    <!-- Navigation Drawer-->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="mega">Mega</string>
+    <string name="tech">Tech</string>
+    <string name="fun">Fun</string>
+    <string name="committee">Committee</string>
+    <string name="about">About Us</string>
+    <string name="developers">Developers</string>
+
+    <!--Contact us Details -->
+    <string name="college_name">Sardar Patel Institute of Technology</string>
+    <string name="college_address">Bharatiya Vidya Bhavan\'s Sardar Patel Institute of Technology, Munshi Nagar, Andheri (West), Mumbai 400 058.</string>
+    <string name="contact_us_contact1_name">Contact 1</string>
+    <string name="contact_us_contact1_number">0000000017</string>
+    <string name="contact_us_contact2_name">Contact 2</string>
+    <string name="contact_us_contact2_number">0000000045</string>
+
+    <!-- Email Ids-->
+    <string name="send_email">Send an email</string>
+    <string name="email_tejas"><u>bhitletejas@gmail.com</u></string>
+    <string name="email_shubham"><u>shubh12197@gmail.com</u></string>
+    <string name="email_adnan"><u>adnan.ans26@gmail.com</u></string>
+    <string name="email_rohit"><u>rnahata1997@gmail.com</u></string>
+    <string name="email_mithil"><u>mithilgotarne@gmail.com</u></string>
+    <string name="email_akshay"><u>akshah1997@gmail.com</u></string>
+
+    <string name="secretary_email"><u>technicalheadspit@gmail.com</u></string>
+    <string name="core_email"><u>matrixthefest@gmail.com</u></string>
+    <string name="exec_email"><u>exec.matrix2k17@gmail.com</u></string>
+    <string name="tech_email"><u>webdesignspit@gmail.com</u></string>
+    <string name="pr_email"><u>pr.matrix17@gmail.com</u></string>
+    <string name="marketing_email"><u>marketing.matrix2k17@gmail.com</u></string>
+    <string name="events_email"><u>eventheadspit17@gmail.com</u></string>
+    <string name="decor_email"><u>decorspit17@gmail.com</u></string>
+    <string name="admin_email"><u>aspit333@gmail.com</u></string>
+    <string name="security_email"><u>secspit@gmail.com</u></string>
+
+    <!--Google+-->
+    <string name="googleplus_tejas">https://tejasbhitle.github.io</string>
+    <string name="googleplus_shubham">https://plus.google.com/105339466507922161056</string>
+    <string name="googleplus_adnan">https://plus.google.com/+AdnanAnsari26</string>
+    <string name="googleplus_rohit">https://plus.google.com/u/0/102509309260551395915</string>
+    <string name="googleplus_mithil">https://plus.google.com/+MitzzGotarne</string>
+    <string name="googleplus_akshay">https://plus.google.com/+AkshayShahakshah1997</string>
+
+    <!--LinkedIn-->
+    <string name="linkedin_tejas">https://www.linkedin.com/in/tejas-bhitle-ab6597126</string>
+    <string name="linkedin_shubham">https://www.linkedin.com/profile/view?id=116787827</string>
+    <string name="linkedin_adnan">https://www.linkedin.com/in/adnan-ansari</string>
+    <string name="linkedin_rohit">https://www.linkedin.com/in/rohit-nahata-513aa912a</string>
+    <string name="linkedin_mithil">https://www.linkedin.com/in/mithil-gotarne-470786131</string>
+    <string name="linkedin_akshay">https://in.linkedin.com/in/akshah1997</string>
+
+    <string name="title_activity_event_details">EventDetails</string>
+
+
+
+    <string name="description">Description</string>
+    <string name="venue_time">Venue and Time</string>
+    <string name="registration">Registration</string>
+    <string name="prizes">Prizes</string>
+    <string name="organizers">Organizers</string>
+    <string name="contact_person_two">Contact Person Two (9874561230)</string>
+    <string name="contact_person_one">Contact Person One (3120456987)</string>
+    <string name="fake_rules">
+        " Some Rule 1\n Much Rule 2\n Wow Rule 3"
+    </string>
+    <string name="fake_prizes"> Some Prize \n Much Prize \n Wow Prize</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="share_event">Share</string>
+    <string name="contact_us">Contact us</string>
+    <string name="imgthumbnail">imgThumbnail</string>
+    <string name="no_favorites_text">No Favorites</string>
+
+    <!-- Classes -->
+    <string name="se_it">2nd year, IT</string>
+    <string name="se_comps">2nd year, Comps</string>
+    <string name="te_it">3rd year, IT</string>
+    <string name="te_comps">3rd year, Comps</string>
+    <string name="te_extc">3rd year, EXTC</string>
+    <string name="mca">MCA</string>
+
+    <!--Libraries-->
+    <string name="picasso_name">Picasso</string>
+    <string name="picasso_author">Square, Inc.</string>
+    <string name="picasso_description">A powerful image downloading and caching library for Android.</string>
+    <string name="picasso_license">Licensed under Apache License 2.0</string>
+    <string name="picasso_copyright">&#169; 2013 Square, Inc.</string>
+
+    <string name="circular_image_view_name">Circular ImageView</string>
+    <string name="circular_image_view_author">Henning Dodenhof</string>
+    <string name="circular_image_view_description">A circular ImageView for Android.</string>
+    <string name="circular_image_view_license">Licensed under Apache License 2.0</string>
+    <string name="circular_image_view_copyright">&#169; 2016 Henning Dodenhof</string>
+
+    <string name="circle_indicator_name">CircleIndicator</string>
+    <string name="circle_indicator_author">Relex</string>
+    <string name="circle_indicator_description">A lightweight ViewPager indicator like in the Nexus 5 launcher.</string>
+    <string name="circle_indicator_license">Licensed under Apache License 2.0</string>
+    <string name="circle_indicator_copyright">&#169; 2014 Relex</string>
+
+    <string name="android_support">Android Support Libraries</string>
+    <string name="android_support_author">Google Inc.</string>
+    <string name="android_support_license">Licensed under Apache License 2.0</string>
+    <string name="android_support_copyright">&#169; 2016 Google Inc.</string>
+
+    <string name="app_description">An open source application for the annual technical festival of Sardar Patel Institute of Technology.</string>
+    <string name="app_licence">Licensed under the MIT license</string>
+    <string name="app_copyright">&#169; 2018 Sardar Patel Institute of Technology</string>
+    <string name="aboutapp">About</string>
+    <string name="date">15th and 16th Sep 2017</string>
+    <string name="title_activity_edit_event">EditEvent</string>
+
+
+    <string name="devAdityaemail">adityabhave@gmail.com</string>
+    <string name="devAdityagoogle">https://plus.google.com/u/0/109035460662288063356</string>
+    <string name="devAdityalinkedin">https://www.linkedin.com/in/aditya-bhave-235765128</string>
+    <string name="devTejasemail">tejas4888@gmail.com</string>
+    <string name="devTejasgoogle">https://plus.google.com/u/0/109695234997362404317</string>
+    <string name="devTejaslinkedin">https://in.linkedin.com/in/tejas-chheda-678a18143</string>
+
+    <string name="notemptyfield">This field cannot be empty</string>
+
+</resources>

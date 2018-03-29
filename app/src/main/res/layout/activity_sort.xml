@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kavit.pelicula1.sort">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        >
+
+        <Button
+            android:textSize="32sp"
+            android:id="@+id/adv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fever"
+            android:padding="35dp"
+            />
+
+        <Button
+            android:textSize="32sp"
+            android:id="@+id/com"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Headache"
+            android:padding="35dp"
+            />
+        <Button
+            android:textSize="32sp"
+            android:id="@+id/hor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Abdominal Pain"
+            android:padding="35dp"/>
+
+        <Button
+            android:id="@+id/rom"
+            android:textSize="32sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nausea"
+            android:padding="35dp"/>
+        <Button
+            android:id="@+id/thril"
+            android:textSize="32sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="diarrhoea"
+            android:padding="35dp"/>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

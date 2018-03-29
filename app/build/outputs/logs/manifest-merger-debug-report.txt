@@ -1,0 +1,615 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:2:1-86:12
+MERGED from [com.android.support:design:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/223e8ec5acc66bc18af7f304ecc0da45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f74fd0f9c9228b35882d69b0962bd429/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/0d2b3989cf3895b73c65f9c3eb5894c5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/8e6546c387b7c40be9bcd7abd9c3f00d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/21afeedb47765ef09212dad80fd69078/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/59394d57479dbfda45e30b40164e5fb4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.0.aar/ba9d724e5e47ae8c627b359132e4c8cc/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.0.aar/fcbd8af2298bbf4e6d4fbfe05e295502/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:17:1-29:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f3989bb7d08a06115d52e6da68ea3fc1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/ec5e5b5f43e1d84bf0130ed5b5518f44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7666406b2e5d007fef109d73d566d56a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a08c60ab7db600057f91f11622aabece/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.0.aar/ddfc89699a236f85d3c7bdf60de69fe1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/85fb66ec0553738621ad4ff29bdc8f4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/b35419b717dd537d05df051f79a6e715/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b0cf5f784245b2d90d8f9ef2d7b83c6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d61f032046abfc2400dc2c35fa5b5b44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/bd13b2b4de87c58e163f6f83e243a97a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2e90c5aa83826ce6dbaa1391a86a8a5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cf2b8613827e065b56f405605775c772/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/545ea7b0085de202ddaa5c2bfb36e397/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/6454a6493f85870f026059b90e3deb1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c56178821be2a3f53f904c9b39ac02ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/387da0598375591f12c9ac166df11f26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6c415ffed63fb975cf82a4a287c71db6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6cad68cf866985817edb5e2f6564ecc7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/db67ddc616571062aef5c14667d7d2dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.0.aar/d404bb90e218acd0e64df10365649de0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.0.aar/88279f009f21a9d644215bb13b43f837/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/9dacbc2fa0b4f7616e263fd829866022/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/1f9dd606f37e8495d04943c3818933aa/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.0.aar/4599f0965074294d94a1f694c93fe0e0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/2076e2424fe7b5caa84532e78fa006f3/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/7018ad51c01ca63bec496bddbdd54642/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/d2b0fdb1b538d2a5e262aab397b06a30/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/0208d37e7dbe6017262b8eff0f10831d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/d0d3ec422823dfaf7cb451583d616e28/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.0.aar/b6d120c5a48cfc309d7c9a8cb2bd93f9/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.0.aar/14ef781810a4ac57b34bc4904dae2f57/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:5:5-47:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:15:5-84:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:15:5-84:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/0d2b3989cf3895b73c65f9c3eb5894c5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/0d2b3989cf3895b73c65f9c3eb5894c5/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/21afeedb47765ef09212dad80fd69078/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/21afeedb47765ef09212dad80fd69078/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:22:5-27:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/85fb66ec0553738621ad4ff29bdc8f4f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/85fb66ec0553738621ad4ff29bdc8f4f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/b35419b717dd537d05df051f79a6e715/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/b35419b717dd537d05df051f79a6e715/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-database-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.0.aar/d404bb90e218acd0e64df10365649de0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-database-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.0.aar/d404bb90e218acd0e64df10365649de0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.0.aar/88279f009f21a9d644215bb13b43f837/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.0.aar/88279f009f21a9d644215bb13b43f837/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/9dacbc2fa0b4f7616e263fd829866022/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/9dacbc2fa0b4f7616e263fd829866022/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/1f9dd606f37e8495d04943c3818933aa/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/1f9dd606f37e8495d04943c3818933aa/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.0.aar/4599f0965074294d94a1f694c93fe0e0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.0.aar/4599f0965074294d94a1f694c93fe0e0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/2076e2424fe7b5caa84532e78fa006f3/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/2076e2424fe7b5caa84532e78fa006f3/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/7018ad51c01ca63bec496bddbdd54642/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/7018ad51c01ca63bec496bddbdd54642/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/d2b0fdb1b538d2a5e262aab397b06a30/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/d2b0fdb1b538d2a5e262aab397b06a30/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/0208d37e7dbe6017262b8eff0f10831d/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/0208d37e7dbe6017262b8eff0f10831d/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/d0d3ec422823dfaf7cb451583d616e28/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/d0d3ec422823dfaf7cb451583d616e28/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.0.aar/b6d120c5a48cfc309d7c9a8cb2bd93f9/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.0.aar/b6d120c5a48cfc309d7c9a8cb2bd93f9/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.0.aar/14ef781810a4ac57b34bc4904dae2f57/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.0.aar/14ef781810a4ac57b34bc4904dae2f57/AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:8:9-31
+	android:roundIcon
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.kavit.pelicula1.MainActivity
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:15:13-35
+	android:theme
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.kavit.pelicula1.rate
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:24:19-44
+	android:theme
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:25:19-62
+	android:name
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:23:19-39
+activity#com.example.kavit.pelicula1.ProfileActivity
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:label
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:29:13-38
+	android:theme
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:28:13-44
+activity#com.example.kavit.pelicula1.MainActivity1
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:32:9-36:20
+	android:label
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:34:13-38
+	android:theme
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:33:13-42
+activity#com.example.kavit.pelicula1.sort
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:label
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:39:13-38
+	android:theme
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:38:13-33
+activity#com.example.kavit.pelicula1.about
+ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:42:9-46:20
+	android:label
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:44:13-38
+	android:theme
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:43:13-34
+uses-sdk
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/223e8ec5acc66bc18af7f304ecc0da45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/223e8ec5acc66bc18af7f304ecc0da45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f74fd0f9c9228b35882d69b0962bd429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f74fd0f9c9228b35882d69b0962bd429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/0d2b3989cf3895b73c65f9c3eb5894c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/0d2b3989cf3895b73c65f9c3eb5894c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/8e6546c387b7c40be9bcd7abd9c3f00d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/8e6546c387b7c40be9bcd7abd9c3f00d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/21afeedb47765ef09212dad80fd69078/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/21afeedb47765ef09212dad80fd69078/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/59394d57479dbfda45e30b40164e5fb4/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/59394d57479dbfda45e30b40164e5fb4/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.0.aar/ba9d724e5e47ae8c627b359132e4c8cc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.0.aar/ba9d724e5e47ae8c627b359132e4c8cc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.0.aar/fcbd8af2298bbf4e6d4fbfe05e295502/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.0.aar/fcbd8af2298bbf4e6d4fbfe05e295502/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f3989bb7d08a06115d52e6da68ea3fc1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f3989bb7d08a06115d52e6da68ea3fc1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/ec5e5b5f43e1d84bf0130ed5b5518f44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/ec5e5b5f43e1d84bf0130ed5b5518f44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7666406b2e5d007fef109d73d566d56a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7666406b2e5d007fef109d73d566d56a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a08c60ab7db600057f91f11622aabece/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a08c60ab7db600057f91f11622aabece/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.0.aar/ddfc89699a236f85d3c7bdf60de69fe1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.0.aar/ddfc89699a236f85d3c7bdf60de69fe1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/85fb66ec0553738621ad4ff29bdc8f4f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/85fb66ec0553738621ad4ff29bdc8f4f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/b35419b717dd537d05df051f79a6e715/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/b35419b717dd537d05df051f79a6e715/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b0cf5f784245b2d90d8f9ef2d7b83c6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b0cf5f784245b2d90d8f9ef2d7b83c6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d61f032046abfc2400dc2c35fa5b5b44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d61f032046abfc2400dc2c35fa5b5b44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/bd13b2b4de87c58e163f6f83e243a97a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/bd13b2b4de87c58e163f6f83e243a97a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2e90c5aa83826ce6dbaa1391a86a8a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2e90c5aa83826ce6dbaa1391a86a8a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cf2b8613827e065b56f405605775c772/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cf2b8613827e065b56f405605775c772/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/545ea7b0085de202ddaa5c2bfb36e397/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/545ea7b0085de202ddaa5c2bfb36e397/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/6454a6493f85870f026059b90e3deb1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/6454a6493f85870f026059b90e3deb1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c56178821be2a3f53f904c9b39ac02ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c56178821be2a3f53f904c9b39ac02ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/387da0598375591f12c9ac166df11f26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/387da0598375591f12c9ac166df11f26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6c415ffed63fb975cf82a4a287c71db6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6c415ffed63fb975cf82a4a287c71db6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6cad68cf866985817edb5e2f6564ecc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6cad68cf866985817edb5e2f6564ecc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/db67ddc616571062aef5c14667d7d2dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/db67ddc616571062aef5c14667d7d2dd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:13:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/b35419b717dd537d05df051f79a6e715/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/b35419b717dd537d05df051f79a6e715/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:28:9-31:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:31:13-72
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:29:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:32:9-36:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:35:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:36:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:33:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:37:9-41:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:40:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:41:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:38:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:42:9-45:73
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:43:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:46:9-50:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:49:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:50:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:47:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:51:9-54:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:54:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:52:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:55:9-59:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:58:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:59:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:57:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:56:13-57
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:60:9-64:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:63:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:62:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:64:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:61:13-86
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:65:9-77:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:67:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:66:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:69:13-76:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:70:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:72:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:72:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:73:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:73:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:75:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:75:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:79:9-83:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:81:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:82:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:83:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/0d9fa05b0f61bc8b61b6754b6873eb91/AndroidManifest.xml:80:13-79
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/2aa16ed42b34a641d5b69e4f092aa610/AndroidManifest.xml:24:13-79
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/7a00c8bef3005595ca8833b47770ead4/AndroidManifest.xml:24:13-83
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/add7463cf208c0f03fa92caa55ce1aee/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/18c83cd2b27f082ee95ea1e8bd78afaf/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:29:9-63
+permission#com.example.kavit.pelicula1.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:32:22-76
+uses-permission#com.example.kavit.pelicula1.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:39:13-43:29
+intent-filter#com.example.kavit.pelicula1+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:42:27-58
+category#com.example.kavit.pelicula1
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/299ff40f6266d0691a4506b359afc429/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/7f3cbd23cdc7d8de2223b6ae73963938/AndroidManifest.xml:9:13-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/abhishekpadalkar/Downloads/Pelicula1/app/src/main/AndroidManifest.xml:2:1-49:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE

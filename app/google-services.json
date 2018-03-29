@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068185720532",
+    "firebase_url": "https://baymax-562a1.firebaseio.com",
+    "project_id": "baymax-562a1",
+    "storage_bucket": "baymax-562a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068185720532:android:529ad27a1b69f7c8",
+        "android_client_info": {
+          "package_name": "com.example.kavit.pelicula1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068185720532-jn5lj1dceh4rabnpe8ou0gp4qbfijt2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kavit.pelicula1",
+            "certificate_hash": "96acc05dbc6ccd42720a4d04ca8506f3b28fc11d"
+          }
+        },
+        {
+          "client_id": "1068185720532-obaudis8naqp4fn4ir17f5b3nb3ve0bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnK8ztm9damWeBPFG0NsvOEXQ-54bpOGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068185720532-obaudis8naqp4fn4ir17f5b3nb3ve0bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

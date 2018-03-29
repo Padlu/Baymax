@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C47F3</color>
+    <color name="colorPrimaryDark">#4577F2</color>
+    <color name="colorAccent">#9D9E9E</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="linkedIn_blue">#0077B5</color>
+    <color name="developer_card_color">#A9A9A9</color>
+    <color name="background">#EEEEEE</color>
+    <color name="card_background">#FAFAFA</color>
+    <color name="primary_text">#040404</color>
+    <color name="secondary_text">#757575</color>
+
+    <color name="dark_gray">#505050</color>
+    <color name="grey">#454545</color>
+
+    <color name="secretary">#E91E63</color>
+    <color name="cp">#FFA000</color>
+    <color name="vcp">#009688</color>
+    <color name="exec">#AFB42B</color>
+    <color name="tech">#3F51B5</color>
+    <color name="pr">#FF5722</color>
+    <color name="marketing">#673AB7</color>
+    <color name="events">#F44336</color>
+    <color name="decor">#388E3C</color>
+    <color name="admin">#9C27B0</color>
+    <color name="security">#607D8B</color>
+
+    <color name="yellow_amber">#FFCA28</color>
+    <color name="mild_green">#009688</color>
+</resources>

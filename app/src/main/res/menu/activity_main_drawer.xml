@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/svg_author_24px"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/svg_favorite_border_white_48px"
+            android:title="Add Symptoms" />
+        <item
+            android:id="@+id/nav_sort"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Asses Symptoms" />
+        <item
+            android:id="@+id/nav_recc"
+            android:icon="@drawable/svg_chat_white_48px"
+            android:title="Get Expert Advice" />
+
+          <item
+            android:id="@+id/nav_about"
+              android:icon="@drawable/svg_info_outline_white_24px"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/svg_group_work_white_48px"
+            android:title="Logout" />
+    </group>
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+-->
+</menu>

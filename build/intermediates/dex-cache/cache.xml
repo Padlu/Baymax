@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kavit\.android\build-cache\64e80240ed95ee8501ae7c806dcef898887792cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\kavit\Pelicula1\app\build\intermediates\pre-dexed\debug\classes_daaf659551fce59c3a200e3c2eabfda7a1d8038b.jar" />
+    </item>
+
+</items>

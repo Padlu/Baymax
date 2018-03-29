@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 27 20:42:39 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/abhishekpadalkar/Downloads/Pelicula1/app/build/intermediates/assets/debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
