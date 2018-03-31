@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity1">
+    tools:context=".MainActivity1"
+    android:orientation="vertical">
 
     <ListView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="528dp"
         tools:layout_editor_absoluteY="1dp"
         tools:layout_editor_absoluteX="8dp"
         android:id="@+id/recList"
@@ -16,5 +17,39 @@
         tools:ignore="MissingConstraints"
         tools:listitem="@layout/activity_item_symptom"/>
 
+    <Button
+        android:id="@+id/analyze_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ANALYZE BABY"
+        android:gravity="bottom"/>
 
-</android.support.constraint.ConstraintLayout>
+
+</LinearLayout>
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--tools:context=".MainActivity1">-->
+
+    <!--<ListView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--tools:layout_editor_absoluteY="1dp"-->
+        <!--tools:layout_editor_absoluteX="8dp"-->
+        <!--android:id="@+id/recList"-->
+        <!--android:padding="16dp"-->
+        <!--tools:ignore="MissingConstraints"-->
+        <!--tools:listitem="@layout/activity_item_symptom"/>-->
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="ANALYZE BABY"/>-->
+
+
+<!--</android.support.constraint.ConstraintLayout>-->

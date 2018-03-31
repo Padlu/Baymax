@@ -17,7 +17,6 @@
             android:id="@+id/messageTextView"
             android:layout_width="wrap_content"
             android:layout_height="35dp"
-            android:layout_toRightof="@id/checkBox"
             android:layout_weight="0"
             android:textAppearance="?android:attr/textAppearanceLarge"
             tools:text="Message" />
