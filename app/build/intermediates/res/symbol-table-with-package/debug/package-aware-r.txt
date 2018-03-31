@@ -1086,9 +1086,9 @@ int id multiply 0x7f080083
 int id name 0x7f080084
 int id name_layout 0x7f080085
 int id nav_about 0x7f080086
-int id nav_logout 0x7f080087
-int id nav_profile 0x7f080088
-int id nav_rate 0x7f080089
+int id nav_add_symptoms 0x7f080087
+int id nav_logout 0x7f080088
+int id nav_profile 0x7f080089
 int id nav_recc 0x7f08008a
 int id nav_sort 0x7f08008b
 int id nav_view 0x7f08008c

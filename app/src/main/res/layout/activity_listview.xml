@@ -14,19 +14,7 @@
         android:id="@+id/recList"
         android:padding="16dp"
         tools:ignore="MissingConstraints"
-        tools:context=".MainActivity1">
-      <!--  <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
+        tools:listitem="@layout/activity_item_symptom"/>
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="rate"/>
-
-        </LinearLayout>-->
-
-    </ListView>
 
 </android.support.constraint.ConstraintLayout>

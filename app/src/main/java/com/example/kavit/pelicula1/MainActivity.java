@@ -190,17 +190,18 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             Intent myIntent = new Intent(MainActivity.this, ProfileActivity.class);
             MainActivity.this.startActivity(myIntent);
 
-        } else if (id == R.id.nav_rate) {
+        } else if (id == R.id.nav_recc) {
             Intent myIntent = new Intent(MainActivity.this, sort.class);
             startActivity(myIntent);
 
-        } else if (id == R.id.nav_recc) {
+        } else if (id == R.id.nav_add_symptoms) {
             Intent myIntent = new Intent(MainActivity.this, MainActivity1.class);
             startActivity(myIntent);
 
         } else if (id == R.id.nav_logout) {
             AuthUI.getInstance().signOut(this);
             return true;
+
         } else if (id == R.id.nav_sort) {
             Intent myIntent = new Intent(MainActivity.this, MainActivity1.class);
             startActivity(myIntent);

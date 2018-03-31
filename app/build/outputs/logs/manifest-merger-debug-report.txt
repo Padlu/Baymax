@@ -11,6 +11,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /User
 MERGED from [com.android.support:cardview-v7:27.0.2] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/8e6546c387b7c40be9bcd7abd9c3f00d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/21afeedb47765ef09212dad80fd69078/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/59394d57479dbfda45e30b40164e5fb4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-12.0.0.aar/bef34eee1fe653a99f1bce0f46b9d133/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.0.aar/ba9d724e5e47ae8c627b359132e4c8cc/AndroidManifest.xml:2:1-7:12
@@ -209,6 +210,8 @@ MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/abhishekpadalkar/.
 MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/21afeedb47765ef09212dad80fd69078/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/59394d57479dbfda45e30b40164e5fb4/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/59394d57479dbfda45e30b40164e5fb4/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-12.0.0.aar/bef34eee1fe653a99f1bce0f46b9d133/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-12.0.0.aar/bef34eee1fe653a99f1bce0f46b9d133/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/7b963a25cb4fbc6023516d45abe939cf/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/abhishekpadalkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/e2b71ec978f9df087787fef8f7fc3eba/AndroidManifest.xml:20:5-44

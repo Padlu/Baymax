@@ -8,7 +8,7 @@
             android:icon="@drawable/svg_author_24px"
             android:title="My Profile" />
         <item
-            android:id="@+id/nav_rate"
+            android:id="@+id/nav_add_symptoms"
             android:icon="@drawable/svg_favorite_border_white_48px"
             android:title="Add Symptoms" />
         <item

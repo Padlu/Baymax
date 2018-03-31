@@ -5,32 +5,43 @@ package com.example.kavit.pelicula1;
  */
 
 import android.content.Intent;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.ListView;
+
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.firestore.*;
+
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
 
 public class MainActivity1 extends AppCompatActivity {
-    private String USGS_URL =
-            "http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&eventtype=earthquake&orderby=time&minmag=6&limit=10";
 
-
-    private ListView mListView;
-    private RecommendationAdapter mAdapter;
-
+    private ListView mSymptomListView;
+    private SymptomAdapter mSymptomAdapter;
+    private FirebaseFirestore db;
+    private CollectionReference mDiseaseCollectionReference;
+    private DocumentReference mDiseaseDocumentReference;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_listview);
 
+        setup();
 
-        mListView = (ListView) findViewById(R.id.recList);
-        ArrayList<Disease> x = new ArrayList<Disease>();
-        x.add(new Disease("Scarlett Fever", "Virus"));
+        getAllSymptoms();
 
-        mAdapter = new RecommendationAdapter(this, x);
-        mListView.setAdapter(mAdapter);
+        //mAdapter = new RecommendationAdapter(this, x);
+        //mListView.setAdapter(mAdapter);
 
 
      /*   mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -53,6 +64,39 @@ public class MainActivity1 extends AppCompatActivity {
 
 
 
+    }
+
+    public void setup() {
+        // [START get_firestore_instance]
+        db = FirebaseFirestore.getInstance();
+        // [END get_firestore_instance]
+
+        // [START set_firestore_settings]
+        FirebaseFirestoreSettings settings = new FirebaseFirestoreSettings.Builder()
+                .setPersistenceEnabled(true)
+                .build();
+        db.setFirestoreSettings(settings);
+        // [END set_firestore_settings]
+    }
+
+    public void getAllSymptoms() {
+        db.collection("symptom")
+                .get()
+                .addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
+                    @Override
+                    public void onComplete(@NonNull Task<QuerySnapshot> task) {
+                        if (task.isSuccessful()) {
+                           // ArrayList<Symptom> symptoms = new ArrayList<Symptom>();
+                            for (QueryDocumentSnapshot document : task.getResult()) {
+                                Log.d("Symptoms", document.getId() + " => " + document.getData().get("name"));
+                               // symptoms[] = document.toObject(Symptom.class);
+                            }
+                        } else {
+                            Log.w("Symptoms", "Error getting documents.", task.getException());
+                        }
+                    }
+                });
+        // [END get_all_users]
     }
 
     @Override

@@ -62,22 +62,7 @@
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
         <activity
-            android:name="com.example.kavit.pelicula1.RegPage"
-            android:label="Pelicula1"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
-        <activity
             android:name="com.example.kavit.pelicula1.about"
-            android:label="Pelicula1"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
-        <activity
-            android:name="com.example.kavit.pelicula1.choice"
-            android:label="Pelicula1"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
-        <activity
-            android:name="com.example.kavit.pelicula1.LoginPage"
             android:label="Pelicula1"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>

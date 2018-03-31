@@ -4049,9 +4049,9 @@ public final class R {
     public static final int name=0x7f080084;
     public static final int name_layout=0x7f080085;
     public static final int nav_about=0x7f080086;
-    public static final int nav_logout=0x7f080087;
-    public static final int nav_profile=0x7f080088;
-    public static final int nav_rate=0x7f080089;
+    public static final int nav_add_symptoms=0x7f080087;
+    public static final int nav_logout=0x7f080088;
+    public static final int nav_profile=0x7f080089;
     public static final int nav_recc=0x7f08008a;
     public static final int nav_sort=0x7f08008b;
     public static final int nav_view=0x7f08008c;
