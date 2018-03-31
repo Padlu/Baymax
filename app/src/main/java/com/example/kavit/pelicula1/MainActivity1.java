@@ -4,14 +4,20 @@ package com.example.kavit.pelicula1;
  * Created by kavit on 20-09-2017.
  */
 
+import android.app.Activity;
 import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -26,24 +32,31 @@ import java.util.ListIterator;
 public class MainActivity1 extends AppCompatActivity {
 
     private ListView mSymptomListView;
+    private ArrayList<Symptom> mSymptomList;
     private SymptomAdapter mSymptomAdapter;
     private FirebaseFirestore db;
     private CollectionReference mDiseaseCollectionReference;
     private DocumentReference mDiseaseDocumentReference;
+    private Button analyze;
+    private final String TAG = "MainActivity1";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_listview);
-
+        mSymptomListView = (ListView) findViewById(R.id.recList);
         setup();
 
         getAllSymptoms();
 
-        //mAdapter = new RecommendationAdapter(this, x);
-        //mListView.setAdapter(mAdapter);
+        analyze = (Button)findViewById(R.id.analyze_b);
 
-
+        analyze.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                onAnalyzeButtonPressed();
+            }
+        });
      /*   mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
             @Override
@@ -86,17 +99,32 @@ public class MainActivity1 extends AppCompatActivity {
                     @Override
                     public void onComplete(@NonNull Task<QuerySnapshot> task) {
                         if (task.isSuccessful()) {
-                           // ArrayList<Symptom> symptoms = new ArrayList<Symptom>();
+                            mSymptomList = new ArrayList<Symptom>();
                             for (QueryDocumentSnapshot document : task.getResult()) {
-                                Log.d("Symptoms", document.getId() + " => " + document.getData().get("name"));
-                               // symptoms[] = document.toObject(Symptom.class);
+                                //Log.d("Symptoms", document.getId() + " => " + document.getData().get("name"));
+                                mSymptomList.add(document.toObject(Symptom.class));
                             }
+
+                            mSymptomAdapter = new SymptomAdapter(MainActivity1.this , R.layout.activity_item_symptom, mSymptomList);
+                            mSymptomListView.setAdapter(mSymptomAdapter);
+
                         } else {
                             Log.w("Symptoms", "Error getting documents.", task.getException());
                         }
                     }
+                    // [END get_all_users]
                 });
-        // [END get_all_users]
+    }
+
+    public void onAnalyzeButtonPressed() {
+
+        ArrayList<Symptom> mSelectedSymptoms = new ArrayList<Symptom>();
+        mSelectedSymptoms = mSymptomAdapter.getSelectedSymptoms();
+
+//inteny daal bro
+        Intent myIntent = new Intent(MainActivity1.this, DiseasesActivity.class);
+        startActivity(myIntent);
+
     }
 
     @Override

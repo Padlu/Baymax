@@ -4,6 +4,7 @@ package com.example.kavit.pelicula1;
  * Created by kavit on 20-09-2017.
  */
 
+import java.util.ArrayList;
 import java.util.Map;
 
 /**
@@ -13,9 +14,12 @@ import java.util.Map;
 public class Disease {
     private String name;
     private String desc;
-    private Map<Integer, String> specialists;
+    private ArrayList<String> specialists;
+    private Integer count = 0;
 
-    public Disease(String name, String desc, Map<Integer, String> specialists) {
+    public Disease(){}
+
+    public Disease(String name, String desc, ArrayList<String> specialists) {
         this.name = name;
         this.desc = desc;
         this.specialists = specialists;
@@ -37,8 +41,10 @@ public class Disease {
         this.desc = desc;
     }
 
-    public Map<Integer, String> getSpecialists() { return specialists; }
+    public ArrayList<String> getSpecialists() { return specialists; }
 
-    public void setSpecialists(Map<Integer, String> specialists) { this.specialists = specialists; }
+    public void setSpecialists(ArrayList<String> specialists) { this.specialists = specialists; }
+
+    public Integer getCount(){ return count; }
 
 }
